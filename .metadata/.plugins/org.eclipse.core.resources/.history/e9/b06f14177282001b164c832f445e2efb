@@ -1,0 +1,8 @@
+package com.cg.lb7.ui;
+
+public interface EmployeeInterface 
+{
+	void getDetailsFromUser();
+	String insuranceScheme(float salary,String designation);
+}
+
